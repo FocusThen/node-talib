@@ -1,0 +1,16 @@
+{
+  "name": "node-blackgem",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "./main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.18.2",
+    "talib": "^1.1.5",
+    "yahoo-finance": "^0.3.8"
+  }
+}
